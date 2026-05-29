@@ -67,7 +67,7 @@ calculator-app/
 
 ## 🙌 Acknowledgements
 
-This project was completed as **Task 1** of the **CodeAlpha Front-End Development Internship**.  
+This project was completed as **Task 2 ** of the **CodeAlpha Front-End Development Internship**.  
 A big thank you to the **CodeAlpha** team for the opportunity and guidance! 💙
 
 ---
