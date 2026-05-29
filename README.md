@@ -1,6 +1,6 @@
 # 🧮 Calculator App
 
-A clean and responsive **Calculator Web Application** built as part of my Front-End Development Internship at **[CodeAlpha](https://www.codealpha.tech/)**.
+A clean and responsive **Calculator Web Application** built as part of my Front-End Development Internship at **[CodeAlpha]**.
 
 ---
 
@@ -72,11 +72,5 @@ A big thank you to the **CodeAlpha** team for the opportunity and guidance! 💙
 
 ---
 
-## 📬 Connect With Me
-
-- **LinkedIn:** [your-linkedin-url](https://linkedin.com/in/your-profile)
-- **GitHub:** [your-github-url](https://github.com/your-username)
-
----
 
 > *"The best way to learn is by building."* 🚀
