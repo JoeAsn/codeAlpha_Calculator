@@ -4,13 +4,6 @@ A clean and responsive **Calculator Web Application** built as part of my Front-
 
 ---
 
-## 📸 Preview
-
-<!-- Add a screenshot of your app here -->
-![Calculator App Preview](screenshot.png)
-
----
-
 ## 🚀 Features
 
 - Basic arithmetic operations: Addition, Subtraction, Multiplication, Division
